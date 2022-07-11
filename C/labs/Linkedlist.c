@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-
+#hi this is ours!!!
     int nodes;
     int node1val;
     int pushedval;
